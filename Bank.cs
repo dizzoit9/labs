@@ -1,7 +1,5 @@
 using System;
 
-namespace using System;
-
 namespace labs
 {
     class Bank
