@@ -8,6 +8,8 @@ namespace labs
         {
             Console.WriteLine("Hello World!");
 	    Console.ReadLine();
+	    int a = 2;
+	    Console.WriteLine(a);
         }
     }
 }
